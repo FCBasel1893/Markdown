@@ -21,7 +21,7 @@ Bla bla bla
 ### Ein Javascript schnipesl
 Hier ein bisschen javascript:
 
-        if ("foo" === "bar) {
+        if ("foo" === "bar") {
             // Ein Kommentar
         };
 
