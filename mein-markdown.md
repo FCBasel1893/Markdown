@@ -8,7 +8,7 @@ Das ist der erste Eintrag in mein Notizbuch.
 Die ersten Befehle, die wir gelernt haben.
 
 ## Noch ein Titel / Überschrift 2
-Bla bla bla
+Bla bla bla bla bla
 
 ### Noch ein Titel / Überschrift 3
 
@@ -18,7 +18,7 @@ Bla bla bla
 
 ###### und noch ein Titel / Überschr##ift 6
 
-### Ein Javascript schnipesl
+### Ein Javascript Schnipsel
 Hier ein bisschen javascript:
 
         if ("foo" === "bar") {
